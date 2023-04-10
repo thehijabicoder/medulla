@@ -1,0 +1,15 @@
+{
+  "name": "supermem",
+  "version": "1.0.0",
+  "description": "medulla",
+  "main": "supermem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "supermemo": "^2.0.17"
+  }
+}
